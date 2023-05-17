@@ -176,7 +176,11 @@ namespace WordsCS
                 StreamReader FileReader = new StreamReader("aqawords.txt");
                 while (!FileReader.EndOfStream)
                 {
-                    AllowedWords.Add(FileReader.ReadLine().Trim().ToUpper());
+                    string[] temp = FileReader.ReadLine().Trim().ToUpper().Split(' ');
+                    foreach (string item in temp)
+                    {
+                        AllowedWords.Add(item);
+                    }
                 }
                 FileReader.Close();
             }
@@ -435,8 +439,8 @@ namespace WordsCS
             }
             else
             {
-                PlayerOneTiles = "BTAHANDENONSARJ";
-                PlayerTwoTiles = "CELZXIOTNESMUAA";
+                PlayerOneTiles = "BTAHANDENONSARJGET";
+                PlayerTwoTiles = "CELZXIOTNESMUAAGET";
             }
             while (PlayerOneTilesPlayed <= MaxTilesPlayed && PlayerTwoTilesPlayed <= MaxTilesPlayed && PlayerOneTiles.Length < MaxHandSize && PlayerTwoTiles.Length < MaxHandSize)
             {
