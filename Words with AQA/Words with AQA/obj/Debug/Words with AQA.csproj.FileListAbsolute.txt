@@ -1,0 +1,8 @@
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\bin\Debug\Words with AQA.exe.config
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\bin\Debug\Words with AQA.exe
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\bin\Debug\Words with AQA.pdb
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\obj\Debug\Words with AQA.csproj.AssemblyReference.cache
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\obj\Debug\Words with AQA.csproj.SuggestedBindingRedirects.cache
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\obj\Debug\Words with AQA.csproj.CoreCompileInputs.cache
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\obj\Debug\Words with AQA.exe
+\\RHEA\HOME\2022\22EK2675\Documents\GitHub\Words-with-AQA\Words with AQA\Words with AQA\obj\Debug\Words with AQA.pdb
